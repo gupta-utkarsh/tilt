@@ -1,5 +1,5 @@
 notifications:
-    webhooks: http://172.31.15.244:54856/travis
+    webhooks: http://52.37.57.225:54856/travis
 
 branches:
     only:
