@@ -1,6 +1,6 @@
+language: node_js
+
+script: echo $TRAVIS_EVENT_TYPE
+
 notifications:
     webhooks: http://52.37.57.225:54856/travis
-
-branches:
-    only:
-        - auto
