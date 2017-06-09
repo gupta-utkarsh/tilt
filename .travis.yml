@@ -1,0 +1,6 @@
+notifications:
+    webhooks: http://172.31.15.244:54856/travis
+
+branches:
+    only:
+        - auto
